@@ -4,6 +4,8 @@ A simple journal AI app which kinda summarizes your feelings using AI based on y
 
 This was kind of my first experience with next/react. Mainly wanted to see how things are done here.
 
+If you get why it was named `penseev` , I already love you.
+
 Mainly used these beautiful projects:
 
 1. Nextjs (app router)
@@ -33,3 +35,9 @@ Ofcourse don't forget to set up prisma.
 ```bash
 npx prisma db push
 ```
+
+Home:
+![Alt text](image-1.png)
+
+All journals appear here:
+![Alt text](image.png)
